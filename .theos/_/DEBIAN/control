@@ -1,0 +1,10 @@
+Package: com.degrager.colorcontrol
+Name: ColorControl
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Degrager
+Author: Degrager
+Section: Tweaks
+Version: 0.0.1-30+debug
+Installed-Size: 356
